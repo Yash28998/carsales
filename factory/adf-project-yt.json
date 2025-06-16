@@ -1,0 +1,9 @@
+{
+	"name": "adf-project-yt",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5655fc49-01ff-44f2-8b94-3ad5289731de",
+		"tenantId": "cade9bea-6812-4d71-b868-84461bca69e6"
+	}
+}
